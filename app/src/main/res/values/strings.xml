@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Expandable DropDown List</string>
+    <string name="cricket">CRICKET TEAMS</string>
+    <string name="football">FOOTBALL TEAMS</string>
+    <string name="basketball">BasketBall TEAMS</string>
+    <string name="text_expanded">Expanded</string>
+    <string name="text_collapsed">Collapsed</string>
+
+    <string-array name="string_array_cricket">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>South Africa</item>
+    </string-array>
+    <string-array name="string_array_football">
+        <item>Brazil</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>Netherlands</item>
+        <item>Italy</item>
+    </string-array>
+    <string-array name="string_array_basketball">
+        <item>United States</item>
+        <item>Spain</item>
+        <item>Argentina</item>
+        <item>France</item>
+        <item>Russia</item>
+    </string-array>
+</resources>
